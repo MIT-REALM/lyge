@@ -1,0 +1,7 @@
+loss_coefs:
+  goal: 100.0
+  decrease: 50.0
+  control: 1.0
+loss_eps:
+  positive: 0.1
+  decrease: 1.0

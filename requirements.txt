@@ -1,0 +1,13 @@
+torch==1.13.1
+gym==0.21.0
+numpy==1.24.1
+scipy==1.9.3
+matplotlib==3.6.2
+tqdm==4.64.1
+pandas==1.5.2
+tensorboard==2.11.0
+pyyaml==6.0
+opencv-python==4.6.0.66
+pillow==9.3.0
+stable-baselines3==1.6.2
+mujoco_py==2.1.2.14
